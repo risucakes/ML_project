@@ -1,0 +1,30 @@
+[
+  {
+    "file": "coffee_COFFEE0243.png",
+    "actual": "Coffee",
+    "predicted": "Coffee",
+    "confidence": 0.9926,
+    "correct": true
+  },
+  {
+    "file": "coffee_COFFEE0269.png",
+    "actual": "Coffee",
+    "predicted": "Coffee",
+    "confidence": 0.8905,
+    "correct": true
+  },
+  {
+    "file": "tea_TEA0131.png",
+    "actual": "Tea",
+    "predicted": "Coffee",
+    "confidence": 0.8017,
+    "correct": false
+  },
+  {
+    "file": "tea_TEA0170.png",
+    "actual": "Tea",
+    "predicted": "Tea",
+    "confidence": 0.8414,
+    "correct": true
+  }
+]

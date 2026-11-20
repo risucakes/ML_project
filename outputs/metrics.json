@@ -1,0 +1,12 @@
+{
+  "architecture": "MobileNetV2 pretrained ImageNet + Dense(64) + Dense(1)",
+  "train_images": 100,
+  "validation_images": 20,
+  "epochs_run": 6,
+  "validation_loss": 0.3373592495918274,
+  "validation_accuracy": 0.800000011920929,
+  "class_mapping": {
+    "coffee": 0,
+    "tea": 1
+  }
+}
